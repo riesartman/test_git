@@ -1,4 +1,4 @@
 # test_git
-Je fais un test pour github
+Je fais un test pour le remote.
 On rigole bien
 
